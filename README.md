@@ -1,6 +1,6 @@
 React Native Starting Template to be run on Expo XDE
 
-The staring template integrate redux and pages can be routed using redux 
+The most basic staring template that integrates redux and react navigation. Pages can be routed using redux 
 
 It includes the following packages:
     "axios": "^0.16.2",
