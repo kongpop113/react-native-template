@@ -1,4 +1,4 @@
-React Native Starting Template to be run on Expo
+React Native Starting Template to be run on Expo XDE
 
 The staring template integrate redux and pages can be routed using redux 
 
